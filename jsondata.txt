@@ -1,0 +1,49 @@
+[
+{
+"latitude":"23",
+"longitude":"42",
+"Kind":"Olives",
+"Name":"Pizza Veneziano",
+"Price":"10$"
+}
+,
+{
+"latitude":"21",
+"longitude":"48",
+"Kind":"Pepperoni",
+"Name":"Pizza Domino",
+"Price":"13$"
+}
+,
+{
+"latitude":"19",
+"longitude":"46",
+"Kind":"Pepperoni",
+"Name":"Pizza Domino",
+"Price":"16$"
+}
+,
+{
+"latitude":"20",
+"longitude":"42",
+"Kind":"Mushrooms",
+"Name":"Pizza Plus",
+"Price":"18$"
+}
+,
+{
+"latitude":"15",
+"longitude":"50",
+"Kind":"Pepperoni",
+"Name":"Pizza Italic",
+"Price":"13$"
+}
+,
+{
+"latitude":"17",
+"longitude":"51",
+"Kind":"Tomatoes",
+"Name":"Pizza Pagata",
+"Price":"13$"
+}
+]
